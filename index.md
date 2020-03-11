@@ -7,6 +7,7 @@ NoSQL database | [DynamoDB](https://aws.amazon.com/dynamodb/), [SimpleDB](https:
 Key-value/Document database | [DocumentDB](https://aws.amazon.com/documentdb/) | [Cosmos DB](https://azure.microsoft.com/services/cosmos-db/)
 Graph database | [Neptune](https://aws.amazon.com/neptune/) | [Cosmos DB](https://azure.microsoft.com/services/cosmos-db/) | [Neo4j](http://www.neo4j.com)
 Data Warehouse | [Redshift](https://aws.amazon.com/redshift/) | [Synapse Analytics](https://azure.microsoft.com/services/synapse-analytics/) | [Snowflake](https://www.snowflake.com/)
+Cloud ETL/ELT | [Glue](https://aws.amazon.com/glue/) | [Data Factory](https://azure.microsoft.com/en-us/services/data-factory/) | [Dell Boomi](boomi.com), [Mulesoft](Mulesoft.com)
 
 
 ### Support or Contact
