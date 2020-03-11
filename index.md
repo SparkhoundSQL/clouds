@@ -14,4 +14,4 @@ Cloud ETL/ELT | [Glue](https://aws.amazon.com/glue/) | [Data Factory](https://az
 
 Reach out to us at [Sparkhound](https://www.Sparkhound.com) for more information.
 
-Info on Markdown: [https://guides.github.com/features/mastering-markdown/]
+Info on Markdown: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
